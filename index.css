@@ -1,0 +1,8 @@
+body {
+ 	background: linear-gradient(to bottom, red 50%, yellow 50%);	
+}
+.container {
+	background-color: black;
+	color: white;
+	text-align: center;
+}
