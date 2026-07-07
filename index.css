@@ -1,12 +1,12 @@
 body {
  	background: linear-gradient(to bottom, red 50%, yellow 50%);
 }
-.oya {
-	display: flex;
-	align-items: center;
-}
 .container {
 	background-color: black;
 	color: white;
 	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
