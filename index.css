@@ -1,5 +1,7 @@
 body {
- 	background: linear-gradient(to bottom, red 50%, yellow 50%);	
+ 	background: linear-gradient(to bottom, red 50%, yellow 50%);
+	display: flex;
+	align-items: center;
 }
 .container {
 	background-color: black;
